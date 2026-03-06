@@ -1,0 +1,17 @@
+https://github.com/carlospolop/Auto_Wordlists/blob/main/wordlists/file_inclusion_windows.txt
+
+https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/
+
+https://github.com/BlackArch/webshells
+
+https://gtfobins.org/
+
+https://book.hacktricks.wiki/en/index.html
+
+https://www.notion.so/HackTheBox-Beginner-Cheat-Sheet-1f4463c9990c80f58aa0f00dfbff0b16
+
+https://sushant747.gitbooks.io/total-oscp-guide/content/
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
+
+https://www.speedguide.net/port.php?port=135
